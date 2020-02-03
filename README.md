@@ -1,2 +1,2 @@
-# chez-Jan
+# Chez-Jan
 Exercice GitHub en classe
